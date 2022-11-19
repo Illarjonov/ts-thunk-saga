@@ -1,1 +1,1 @@
-# ts-thunck-saga
+# ts-thunk-saga
